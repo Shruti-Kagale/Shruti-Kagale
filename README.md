@@ -28,7 +28,7 @@ I like building things where AI meets real constraints: security, reliability, a
 | 🎓 **Studying** | B.Tech CSE (Data Science), VIT Pune, Class of 2028 |
 | 🔭 **Working on** | TrustGraph AI, IntentFlow AI, Edge AI Cybersecurity Agent |
 | 🌱 **Learning** | Agentic AI, RAG and knowledge graphs, system design |
-| 🧮 **Practicing** | DSA in C++ (Striver's A2Z) on [LeetCode](https://leetcode.com/u/YOUR_LEETCODE_USERNAME/) |
+| 🧮 **Practicing** | DSA in C++ on [LeetCode](https://leetcode.com/ShrutiK_5515) |
 | 🎯 **Goal** | Software / AI engineering roles at top product companies |
 | 📫 **Reach me** | shrutikagale5515@gmail.com |
 
